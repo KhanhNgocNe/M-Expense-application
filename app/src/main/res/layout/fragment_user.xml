@@ -39,7 +39,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="dn2699@gre.ac.uk"
+            android:text="dn2669k@gre.ac.uk"
             android:textColor="@color/yellow_light_medium"
             android:includeFontPadding="false"
             android:textSize="15sp"
@@ -162,7 +162,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="dn2699@gre.ac.uk"
+                android:text="dn2669@gre.ac.uk"
                 android:textSize="20sp"
                 android:drawableLeft="@drawable/ic_baseline_email_24"
                 android:drawablePadding="10dp"/>
